@@ -1,0 +1,4 @@
+body{font-family:"Times New Roman",serif;background:#f8f6ef;margin:0;color:#333}
+nav{background:#6d8fa8;padding:12px}nav a{color:white;margin:10px;text-decoration:none}
+.container{max-width:1000px;margin:auto;padding:30px;background:white;border-left:12px solid #b8d8c0;border-right:12px solid #d8e6ef}
+h1,h2{color:#496b7c}table{border-collapse:collapse;width:100%}td,th{border:1px solid #aaa;padding:8px}
